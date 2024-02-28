@@ -34,12 +34,12 @@ const IMethod = {
       },
       {
         treatment: IMethod.CUT,
-        isNeedToTreat: true,
+        isNeedToTreat: false,
         treatmentId: 'treatment3',
       },
       {
         treatment: IMethod.ROOTCANAL,
-        isNeedToTreat: true,
+        isNeedToTreat: false,
         treatmentId: 'treatment4',
       },
     ]
@@ -53,12 +53,12 @@ const IMethod = {
     treatments: [
       {
         treatment: IMethod.FILLING,
-        isNeedToTreat: true,
+        isNeedToTreat: false,
         treatmentId: 'treatment1',
       },
       {
         treatment: IMethod.IMPLANT,
-        isNeedToTreat: true,
+        isNeedToTreat: false,
         treatmentId: 'treatment2',
       },
       {
@@ -82,12 +82,12 @@ const IMethod = {
     treatments: [
       {
         treatment: IMethod.FILLING,
-        isNeedToTreat: true,
+        isNeedToTreat: false,
         treatmentId: 'treatment1',
       },
       {
         treatment: IMethod.IMPLANT,
-        isNeedToTreat: true,
+        isNeedToTreat: false,
         treatmentId: 'treatment2',
       },
       {
@@ -111,12 +111,12 @@ const IMethod = {
     treatments: [
       {
         treatment: IMethod.FILLING,
-        isNeedToTreat: true,
+        isNeedToTreat: false,
         treatmentId: 'treatment1',
       },
       {
         treatment: IMethod.IMPLANT,
-        isNeedToTreat: true,
+        isNeedToTreat: false,
         treatmentId: 'treatment2',
       },
       {
@@ -140,12 +140,12 @@ const IMethod = {
     treatments: [
       {
         treatment: IMethod.FILLING,
-        isNeedToTreat: true,
+        isNeedToTreat: false,
         treatmentId: 'treatment1',
       },
       {
         treatment: IMethod.IMPLANT,
-        isNeedToTreat: true,
+        isNeedToTreat: false,
         treatmentId: 'treatment2',
       },
       {
@@ -169,12 +169,12 @@ const IMethod = {
     treatments: [
       {
         treatment: IMethod.FILLING,
-        isNeedToTreat: true,
+        isNeedToTreat: false,
         treatmentId: 'treatment1',
       },
       {
         treatment: IMethod.IMPLANT,
-        isNeedToTreat: true,
+        isNeedToTreat: false,
         treatmentId: 'treatment2',
       },
       {
@@ -198,12 +198,12 @@ const IMethod = {
     treatments: [
       {
         treatment: IMethod.FILLING,
-        isNeedToTreat: true,
+        isNeedToTreat: false,
         treatmentId: 'treatment1',
       },
       {
         treatment: IMethod.IMPLANT,
-        isNeedToTreat: true,
+        isNeedToTreat: false,
         treatmentId: 'treatment2',
       },
       {
@@ -227,12 +227,12 @@ const IMethod = {
     treatments: [
       {
         treatment: IMethod.FILLING,
-        isNeedToTreat: true,
+        isNeedToTreat: false,
         treatmentId: 'treatment1',
       },
       {
         treatment: IMethod.IMPLANT,
-        isNeedToTreat: true,
+        isNeedToTreat: false,
         treatmentId: 'treatment2',
       },
       {
@@ -256,12 +256,12 @@ const IMethod = {
     treatments: [
       {
         treatment: IMethod.FILLING,
-        isNeedToTreat: true,
+        isNeedToTreat: false,
         treatmentId: 'treatment1',
       },
       {
         treatment: IMethod.IMPLANT,
-        isNeedToTreat: true,
+        isNeedToTreat: false,
         treatmentId: 'treatment2',
       },
       {
@@ -285,12 +285,12 @@ const IMethod = {
     treatments: [
       {
         treatment: IMethod.FILLING,
-        isNeedToTreat: true,
+        isNeedToTreat: false,
         treatmentId: 'treatment1',
       },
       {
         treatment: IMethod.IMPLANT,
-        isNeedToTreat: true,
+        isNeedToTreat: false,
         treatmentId: 'treatment2',
       },
       {
@@ -314,12 +314,12 @@ const IMethod = {
     treatments: [
       {
         treatment: IMethod.FILLING,
-        isNeedToTreat: true,
+        isNeedToTreat: false,
         treatmentId: 'treatment1',
       },
       {
         treatment: IMethod.IMPLANT,
-        isNeedToTreat: true,
+        isNeedToTreat: false,
         treatmentId: 'treatment2',
       },
       {
@@ -343,12 +343,12 @@ const IMethod = {
     treatments: [
       {
         treatment: IMethod.FILLING,
-        isNeedToTreat: true,
+        isNeedToTreat: false,
         treatmentId: 'treatment1',
       },
       {
         treatment: IMethod.IMPLANT,
-        isNeedToTreat: true,
+        isNeedToTreat: false,
         treatmentId: 'treatment2',
       },
       {
@@ -372,12 +372,12 @@ const IMethod = {
     treatments: [
       {
         treatment: IMethod.FILLING,
-        isNeedToTreat: true,
+        isNeedToTreat: false,
         treatmentId: 'treatment1',
       },
       {
         treatment: IMethod.IMPLANT,
-        isNeedToTreat: true,
+        isNeedToTreat: false,
         treatmentId: 'treatment2',
       },
       {
@@ -401,12 +401,12 @@ const IMethod = {
     treatments: [
       {
         treatment: IMethod.FILLING,
-        isNeedToTreat: true,
+        isNeedToTreat: false,
         treatmentId: 'treatment1',
       },
       {
         treatment: IMethod.IMPLANT,
-        isNeedToTreat: true,
+        isNeedToTreat: false,
         treatmentId: 'treatment2',
       },
       {
@@ -430,12 +430,12 @@ const IMethod = {
     treatments: [
       {
         treatment: IMethod.FILLING,
-        isNeedToTreat: true,
+        isNeedToTreat: false,
         treatmentId: 'treatment1',
       },
       {
         treatment: IMethod.IMPLANT,
-        isNeedToTreat: true,
+        isNeedToTreat: false,
         treatmentId: 'treatment2',
       },
       {
@@ -459,12 +459,12 @@ const IMethod = {
     treatments: [
       {
         treatment: IMethod.FILLING,
-        isNeedToTreat: true,
+        isNeedToTreat: false,
         treatmentId: 'treatment1',
       },
       {
         treatment: IMethod.IMPLANT,
-        isNeedToTreat: true,
+        isNeedToTreat: false,
         treatmentId: 'treatment2',
       },
       {
